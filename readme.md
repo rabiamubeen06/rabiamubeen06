@@ -83,14 +83,6 @@ Simulated university LAN traffic monitor with a rule-based engine for detecting 
 Data Structures & Algorithms · Databases · Computer Networks · Software Engineering · OOP · Information Security
 
 ---
-
-## Achievements
-
-- **ICPC 2026 Regionals** — Qualified
-- **CodeBees 25** — 6th place, university-level coding competition
-
----
-
 ## GitHub Activity
 
 <div align="center">
