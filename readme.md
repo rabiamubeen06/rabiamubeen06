@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rabia+Mubeen;Computer+Science+Student;Full-Stack+Developer" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://rabia-mubeen.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-mubeen-92bab8320)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mubeenrabia567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rabiamubeen06)
@@ -101,6 +102,7 @@ Data Structures & Algorithms · Databases · Computer Networks · Software Engin
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/rabia-mubeen-92bab8320) · [mubeenrabia567@gmail.com](mailto:mubeenrabia567@gmail.com) · [GitHub](https://github.com/rabiamubeen06)
+
+[Portfolio](https://rabia-mubeen.vercel.app).[LinkedIn](https://www.linkedin.com/in/rabia-mubeen-92bab8320) · [mubeenrabia567@gmail.com](mailto:mubeenrabia567@gmail.com) · [GitHub](https://github.com/rabiamubeen06)
 
 </div>
